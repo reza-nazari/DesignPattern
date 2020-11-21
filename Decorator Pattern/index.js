@@ -21,3 +21,5 @@ class ComputerDecoration {
 
 let mySystem = new ComputerDecoration();
 mySystem.run();
+
+console.log('test')
